@@ -36,12 +36,6 @@ Reduces human error in inventory management
 Provides accurate data for decision-making
 Enhances operational efficiency
 
-Modern inventory systems use technologies such as:
-
-RFID (Radio Frequency Identification)
-Barcode scanning
-Cloud computing
-Data analytics
 
 These technologies help businesses optimize inventory operations, prevent stock shortages, and improve customer satisfaction.
 
@@ -57,6 +51,7 @@ Stock discrepancies
 Overstocking
 Stockouts
 Misplaced items
+
 2. Time-Consuming Processes
 
 Manual stock counting, order processing, and report generation reduce productivity and efficiency.
@@ -144,12 +139,7 @@ Sales tracking
 Report generation
 Customer management
 Inventory System Features
-Real-time inventory updates
-Automated stock tracking
-Barcode/RFID integration
-Demand forecasting
-Inventory replenishment alerts
-Technologies Used
+
 
 The system may use the following technologies:
 
@@ -158,15 +148,13 @@ HTML
 CSS
 JavaScript
 Backend
-PHP / Node.js / Python
+PHP / Node.js
 Database
 MySQL
-Firebase
-Cloud-based database systems
-Additional Technologies
 
 
 
-User Login
+
+ADMIN LOGIN:
 Username:Admin
 Password:123456
