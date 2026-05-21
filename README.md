@@ -164,10 +164,7 @@ MySQL
 Firebase
 Cloud-based database systems
 Additional Technologies
-RFID technology
-Barcode scanners
-Cloud computing
-Data analytics tools
+
 
 
 User Login
