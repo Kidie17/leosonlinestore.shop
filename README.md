@@ -157,5 +157,5 @@ MySQL
 
 ADMIN LOGIN: 
 
-Username:Admin
-Password:123456
+Username: Admin
+Password: 123456
